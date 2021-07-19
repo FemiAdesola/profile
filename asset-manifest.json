@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.7eb05ef1.chunk.css",
+    "main.js": "/profile/static/js/main.dcdd7a64.chunk.js",
+    "main.js.map": "/profile/static/js/main.dcdd7a64.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.42ab4c66.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.42ab4c66.js.map",
+    "static/js/2.0375839a.chunk.js": "/profile/static/js/2.0375839a.chunk.js",
+    "static/js/2.0375839a.chunk.js.map": "/profile/static/js/2.0375839a.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/main.7eb05ef1.chunk.css.map": "/profile/static/css/main.7eb05ef1.chunk.css.map",
+    "static/js/2.0375839a.chunk.js.LICENSE.txt": "/profile/static/js/2.0375839a.chunk.js.LICENSE.txt",
+    "static/media/Coursera.af9ae25c.pdf": "/profile/static/media/Coursera.af9ae25c.pdf",
+    "static/media/LUT_testimonial.5ea65d39.pdf": "/profile/static/media/LUT_testimonial.5ea65d39.pdf",
+    "static/media/ains.3ad62a20.pdf": "/profile/static/media/ains.3ad62a20.pdf",
+    "static/media/index.css": "/profile/static/media/gra.1ad3f89f.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42ab4c66.js",
+    "static/js/2.0375839a.chunk.js",
+    "static/css/main.7eb05ef1.chunk.css",
+    "static/js/main.dcdd7a64.chunk.js"
+  ]
+}
